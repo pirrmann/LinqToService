@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PeopleFinder.Criteria.StringCriterion">
+    <Position X="6.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Criteria\SearchCritera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PeopleFinder.Criteria.IntCriterion">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Criteria\SearchCritera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PeopleFinder.Criteria.SearchCriteria">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Criteria\SearchCritera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PeopleFinder.Criteria.Criterion&lt;TFilterType, TValue&gt;">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAgAAAAAAAAAAAAIAAAAAgAAAAAAA=</HashCode>
+      <FileName>Criteria\Criterion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="PeopleFinder.Criteria.StringFilterType">
+    <Position X="8.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAYAAA=</HashCode>
+      <FileName>Criteria\StringFilterType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PeopleFinder.Criteria.NumericFilterType">
+    <Position X="4.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAggAAAAAAAAAQAAACAAAAAAAQAAAA=</HashCode>
+      <FileName>Criteria\NumericFilterType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

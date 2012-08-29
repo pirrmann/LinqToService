@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeopleFinder", "PeopleFinder\PeopleFinder.csproj", "{9E812596-9E43-45C4-95B8-BB737770DA31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToService", "LinqToService\LinqToService.csproj", "{5C65E351-7C15-4567-BA8E-AC5BC2FB0EB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{3A2601F2-1ED3-4558-BF77-57BEC4FB4DCE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Diagrams", "Diagrams", "{006C2738-5259-4182-A559-6712E53FAF99}"
+	ProjectSection(SolutionItems) = preProject
+		Diagrams\AssemblyDependencies.dgml = Diagrams\AssemblyDependencies.dgml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{A628BC16-EF29-45D3-8583-148BDDF92DA7}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A2601F2-1ED3-4558-BF77-57BEC4FB4DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A2601F2-1ED3-4558-BF77-57BEC4FB4DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A2601F2-1ED3-4558-BF77-57BEC4FB4DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A2601F2-1ED3-4558-BF77-57BEC4FB4DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C65E351-7C15-4567-BA8E-AC5BC2FB0EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C65E351-7C15-4567-BA8E-AC5BC2FB0EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C65E351-7C15-4567-BA8E-AC5BC2FB0EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C65E351-7C15-4567-BA8E-AC5BC2FB0EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E812596-9E43-45C4-95B8-BB737770DA31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E812596-9E43-45C4-95B8-BB737770DA31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E812596-9E43-45C4-95B8-BB737770DA31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E812596-9E43-45C4-95B8-BB737770DA31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
