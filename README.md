@@ -5,4 +5,4 @@ An implementation of a Linq to Service provider, documented in a series of blog 
 Not much for now. Learn how things work, mostly. And then come back to me and teach me how to make it better !
 
 ## LICENSE
-[Creative Commons 3.0](https://github.com/pirrmann/LinqToService/LICENSE.md)
+[Creative Commons 3.0](https://github.com/pirrmann/LinqToService/blob/master/LICENSE.md)
